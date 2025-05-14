@@ -26,4 +26,4 @@
 - В открывшемся окне нажмите "Выбрать файл" и укажите текстовый файл с данными.
 - Программа построит график и сохранит его в той же директории, где находится исходный файл.
 
-![Graph](dist/temperature_analysis/Temp Trend_SP,PV_250507_graph.png)
+![График](https://github.com/wxxxenly/temperature_analysis/blob/13a1fd80f7feb2df79b0f5c1dbbe7b3a48991f14/dist/temperature_analysis/Temp%20Trend_SP%2CPV_250507_graph.png)
