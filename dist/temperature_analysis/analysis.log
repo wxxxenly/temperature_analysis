@@ -1,0 +1,11 @@
+2025-05-14 18:44:58,884 - INFO - Выбрано файлов: 1
+2025-05-14 18:44:58,884 - INFO - Обработка файла: G:/EA_LogCopy/Temp Trend_SP,PV_250507.txt
+2025-05-14 18:44:59,020 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-05-14 18:44:59,024 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-05-14 18:44:59,028 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-05-14 18:44:59,033 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-05-14 18:44:59,037 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-05-14 18:44:59,041 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-05-14 18:45:03,157 - INFO - Excel отчет сохранен: temperature_analysis\Temp Trend_SP,PV_250507_report.xlsx
+2025-05-14 18:45:03,157 - INFO - Обработка файла завершена успешно
+2025-05-14 18:45:03,157 - INFO - Обработка завершена. Успешно обработано файлов: 1 из 1
